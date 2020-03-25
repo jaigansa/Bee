@@ -4,9 +4,7 @@ Basically Nanu Foss user intha Software Tools tha na use Pannura
 
 # OpenSource Software
 
-* * *
-
-Operating System
+Operating System (OS)
 1. Ubuntu-Gnome
 2. Debian-Kde
 * * *
@@ -19,6 +17,7 @@ Browser
 
 Media
 1. Vlc-Media
+2. Obs-Studio
 
 * * *
 
@@ -41,9 +40,27 @@ Addons
     
 * * *
 
+Tools
+1.Joplin (todo)
+
+* * *
 Fonts
 1. ubuntu
 2. Noto
 3.
+
+* * *
+
+# Free Software
+
+Operating System
+1.
+
+Browser
+1.Google-Chrome
+
+Graphics Software
+1.Sketchfab
+
 
 
