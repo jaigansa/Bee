@@ -37,11 +37,14 @@ Addons
 1. Blender
     a. animation-nodes
     b. 
+
+2. GTK-Themes
+    a. Layan b.manjaro-material
     
 * * *
 
 Tools
-1.Joplin (todo)
+1. Joplin (todo)
 
 * * *
 Fonts
@@ -57,10 +60,10 @@ Operating System
 1.
 
 Browser
-1.Google-Chrome
+1. Google-Chrome
 
 Graphics Software
-1.Sketchfab
+1. Sketchfab
 
 
 
