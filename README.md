@@ -32,7 +32,7 @@ Graphics
 8.
 
 Addons
-1.Blender
+1. Blender
     a. animation-nodes
     b. 
 
